@@ -4,5 +4,5 @@
 <h4>Het leert je nieuwe dingen rond om among us en Zanger Rinus .</h4>
 <H4>Het start meerdere soorten processen gebaseerd op wat je kiest. </H4>
 <H4> </H4>
-<H5>Gemaakt door: *Barry Molenaar* </H5>
-<H5>Leerlingnummer: *173620* </H5>
+<H5>Gemaakt door: <em>Barry Molenaar</em> </H5>
+<H5>Leerlingnummer: <em>173620</em> </H5>
